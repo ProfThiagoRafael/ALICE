@@ -261,9 +261,13 @@ The long-term objective is to build a scalable, observable, and maintainable AI-
 
 ## 14. Author
 
-**Professor Thiago Rafael**  
-AI Systems Architecture | Intelligent Agents | Workflow Automation | IT Infrastructure  
-Brazil
+**Thiago Rafael de Souza Gomes**
+
+AI Solutions Architecture | Multi-Agent Systems | Business Process Automation | Systems Integration
+
+Santa Catarina, Brazil
+
+GitHub e LinkedIn conforme os endereços que definimos.
 
 ---
 
